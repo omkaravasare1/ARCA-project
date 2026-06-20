@@ -4,8 +4,7 @@
 
 ### Streamlining Regulatory Tracking, Compliance Management, and Risk Monitoring for Financial Institutions
 
-[![Java](https://img.shields.io/badge/Java-Backend-orange.svg)]()
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservices-green.svg)]()
+[![Javascript](https://img.shields.io/badge/Java-Backend-orange.svg)]()
 [![React](https://img.shields.io/badge/React-Frontend-blue.svg)]()
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Compliance-red.svg)]()
 
